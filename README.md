@@ -1,5 +1,6 @@
 ## Hi there, my name is IsraQuirozZ! 👋 💻
 
+![Descripción de la imagen](./Prueba para portafolio.png)
 I'm a ***Front-End Web Developer*** and I'm currently enrolled in the
 **Full Stack Web Development** career at *CoderHouse*. With
 over a year of experience in the field, my goal is to take my skills
