@@ -1,6 +1,7 @@
-## Hi there, my name is IsraQuirozZ! 👋 💻
+# Hi there, my name is IsraQuirozZ! 👋 💻
 
 ![Portada Readme](https://github.com/IsraQuirozZ/IsraQuirozZ/blob/main/portadaReadme.png)
+---
 I'm a ***Front-End Web Developer*** and I'm currently enrolled in the
 **Full Stack Web Development** career at *CoderHouse*. With
 over a year of experience in the field, my goal is to take my skills
@@ -11,7 +12,7 @@ am actively seeking a job opportunity as a
 practical experience, expand my knowledge, and contribute to the
 development of high-quality, user-friendly websites.
 
-**Find me at**\
+**Find me at:**\
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isra_quirozz/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-quiroz-de-zaldo-763192203)
 
