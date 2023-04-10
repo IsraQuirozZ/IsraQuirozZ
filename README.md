@@ -43,3 +43,8 @@ development of high-quality, user-friendly websites.
 ### **Otros**: 💻 
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraQuirozZ&show_icons=true&theme=dark&title_color=42f5a1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraQuirozZ&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
