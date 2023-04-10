@@ -1,4 +1,4 @@
-# Hi there, my name is IsraQuirozZ! 👋 💻
+# Hi there 👋🏽, my name is IsraQuirozZ! 💻
 
 ![Portada Readme](https://github.com/IsraQuirozZ/IsraQuirozZ/blob/main/portadaReadme.png)
 ---
