@@ -2,15 +2,9 @@
 
 ![Portada Readme](https://github.com/IsraQuirozZ/IsraQuirozZ/blob/main/portadaReadme.png)
 ---
-I'm a ***Front-End Web Developer*** and I'm currently enrolled in the
+I'm a ***Front-End Web Developer*** and currently enrolled in the
 **Full Stack Web Development** career at *CoderHouse*. With
-over a year of experience in the field, my goal is to take my skills
-to the next level and continue growing professionally. Therefore, I
-am actively seeking a job opportunity as a
-**Front-End Web Developer** or as a
-**Junior Full Stack Web Developer**, where I can gain
-practical experience, expand my knowledge, and contribute to the
-development of high-quality, user-friendly websites.
+over a year of experience in the field, I'm actively seeking of roles as a **Front-End Web Developer** or **Junior Full Stack Web Developer**. My drive is to continually advance professionally while elevating my skills to new heights through engaging and challenging projects.
 
 **Find me at:**\
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isra_quirozz/)
