@@ -3,9 +3,7 @@
 
 ![Portada Readme](https://github.com/IsraQuirozZ/IsraQuirozZ/blob/main/portadaReadme.png)
 ---
-I'm a ***Web Developer*** and currently enrolled in the
-**Full Stack Web Development** career at *CoderHouse*. With
-over a year of experience in the field, I'm actively seeking roles as a **Front-End Web Developer** or **Junior Full Stack Web Developer**. My drive is to continually advance professionally while elevating my skills to new heights through engaging and challenging projects.
+I'm a passionate **Web Developer** currently completing the **Multiplatform Applications Development (DAM)** program at *Ilerna*. I have been learning and building web projects for around **3 years**, with a strong focus on the **MERN stack**. While I enjoy both front-end and back-end development, I feel especially comfortable working on the **front-end**, which is why I'm currently seeking opportunities as a **Front-End Web Developer** or **Junior Full Stack Developer**. I'm highly motivated to keep learning, improve my skills, and grow professionally by working on real-world projects that challenge me.
 
 **Find me at:**\
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isra_quirozz/)
@@ -25,6 +23,7 @@ over a year of experience in the field, I'm actively seeking roles as a **Front-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
