@@ -1,7 +1,12 @@
+# Hi there 👋🏽, I'm Israel Quiroz! 💻
 
-# Hi there 👋🏽, my name is IsraQuirozZ! 💻
+Fullstack Web & React Native Developer based in Madrid, Spain.
 
-![Portada Readme](https://github.com/IsraQuirozZ/IsraQuirozZ/blob/main/portadaReadme.png)
+4+ years of self-taught learning · FP in DAM (Ilerna, 2026) · Real-world experience building a networking app from scratch for a real company (COEMAC).
+
+I build end-to-end projects with attention to UI/UX, business logic and well-designed data models.
+
+![Portada Readme](https://github.com/IsraQuirozZ/IsraQuirozZ/blob/main/gh-banner.png)
 ---
 I'm a passionate **Web Developer** currently completing the **Multiplatform Applications Development (DAM)** program at *Ilerna*. I have been learning and building web projects for around **3 years**, with a strong focus on the **MERN stack**. While I enjoy both front-end and back-end development, I feel especially comfortable working on the **front-end**, which is why I'm currently seeking opportunities as a **Front-End Web Developer** or **Junior Full Stack Developer**. I'm highly motivated to keep learning, improve my skills, and grow professionally by working on real-world projects that challenge me.
 
